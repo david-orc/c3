@@ -12,7 +12,7 @@ Follow the link for more information: [http://c3js.org](http://c3js.org/)
 
 ## Tutorial and Examples
 
-+ [Getting Started](http://c3js.org/gettingstarted.html)
++ [Getting Started!](http://c3js.org/gettingstarted.html)
 + [Examples](http://c3js.org/examples.html)
 
 Additional samples can be found in this repository:
